@@ -1,2 +1,1 @@
-# Prep-Curso
-Repositorio de prueba
+Aprender como subir los cambios en un repositorio. 
